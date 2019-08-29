@@ -3,3 +3,8 @@
 ################################################################################
 
 /WebApplication3/bin/Debug/netcoreapp2.1
+/WebApplication3/obj/Debug/netcoreapp2.1
+/.vs/WebApplication3/v15
+/WebApplication3/obj
+/WebMVC/bin/Debug/netcoreapp2.1
+/WebMVC/obj
